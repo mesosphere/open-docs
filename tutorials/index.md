@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Tutorials
+redirect_from: /tutorials/mesosphere-on-a-single-coreos-instance
 ---
 
 <div class="body-light">
