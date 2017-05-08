@@ -3,7 +3,7 @@
 
 Build is here: https://jenkins.mesosphere.com/service/jenkins/job/open-docs/
 
-**THIS CONTENT IS DEPRECATED. FOR THE LATEST INFORMATION, SEE <a href="dcos.io">dcos.io</a>.**
+**THIS CONTENT IS DEPRECATED. FOR THE LATEST INFORMATION, SEE <a href="dcos.io">https://github.com/mesosphere/dcos</a>.**
 
 This repository contains the Markdown files that comprise the [Mesosphere open documentation site](http://open.mesosphere.com).
 
